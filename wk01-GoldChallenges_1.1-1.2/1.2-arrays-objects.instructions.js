@@ -23,4 +23,5 @@ let favoriteMovie =  {
 console.log(favoriteMovie.nameOfMovie);
 console.log(favoriteMovie.runTime);
 console.log(favoriteMovie.characters);
+console.log(favoriteMovie.characters[1].name)
 console.log(favoriteMovie.characters[1].items[1]);
